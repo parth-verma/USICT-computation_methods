@@ -1,0 +1,5 @@
+Enter y0: 1
+Enter x0: 0
+Enter number of steps: 10
+Enter step size: 0.1
+F(1) = 0.931324356.
