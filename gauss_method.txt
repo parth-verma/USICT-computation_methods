@@ -1,0 +1,12 @@
+Enter the number of equations: 2
+Enter coefficients for eq #1
+Enter value of a: 2
+Enter value of b: 2
+Enter the constant term: 4
+Enter coefficients for eq #2
+Enter value of a: 3
+Enter value of b: 4
+Enter the constant term: 7
+Equation -> y = ax1 + bx2 + c
+x1=1
+x2=1

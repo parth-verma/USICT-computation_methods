@@ -1,0 +1,4 @@
+Enter lower limit: 2
+Enter upper limit: 4
+Enter number of sub-intervals: 100
+6 is the value for the definite integral of the function in the interval [2,4].

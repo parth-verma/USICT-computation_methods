@@ -23,6 +23,6 @@ int main(){
         y+=h*temp;
         x+=h;
     }
-    cout<<setprecision(10)<<"F("<<x<<") = "<<y<<'.';
+    cout<<setprecision(10)<<"F("<<x<<") = "<<y<<'';
     return 0;
 }

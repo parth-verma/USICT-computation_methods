@@ -1,0 +1,5 @@
+Enter approximate value: 1.2
+Enter actual value: 1
+Absolute Error: 0.2
+Relative Error: 0.2
+Percentage Error: 20

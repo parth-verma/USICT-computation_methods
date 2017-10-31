@@ -1,0 +1,11 @@
+Enter number of points: 4
+Enter x1: 1
+Enter y1: 1
+Enter x2: 2
+Enter y2: 2
+Enter x3: 3
+Enter y3: 3
+Enter x4: 4
+Enter y4: 5
+Enter the x coordinate of the point where to find the value of the function:  6
+16 is the value of the function at x = 6.

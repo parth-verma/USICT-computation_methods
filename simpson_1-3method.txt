@@ -1,0 +1,4 @@
+Enter lower limit: 0
+Enter upper limit: 3
+Enter number of sub-intervals: 100
+4.5 is the value for the definite integral of the function in the interval [0,3].

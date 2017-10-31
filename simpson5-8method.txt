@@ -1,0 +1,4 @@
+Enter lower limit: -1
+Enter upper limit: 3
+Enter number of sub-intervals: 1000
+4 is the value for the definite integral of the function in the interval [-1,3].

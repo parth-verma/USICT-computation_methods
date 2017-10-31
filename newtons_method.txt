@@ -1,0 +1,4 @@
+Enter x1: 0.1
+Enter x2: 1.5
+Enter number of digits of precision required: 4
+1 is the root of the equation.
